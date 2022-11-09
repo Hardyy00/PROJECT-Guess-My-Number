@@ -1,2 +1,2 @@
 # PROJECT-Guess-My-Number
- My First Project With Html , CSS  an JavaScript only.
+This is a small Web Game. In this game , you have to guess a number between 1 and 20
